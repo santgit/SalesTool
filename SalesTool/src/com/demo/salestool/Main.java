@@ -13,5 +13,7 @@ public class Main {
 	private static void displayGreeting() {
 		System.out.println("HELLO");
 		System.out.println("SECOND HELLO");
+		
+		System.out.println("first change");
 	}
 }
